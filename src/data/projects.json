@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Person identification using video surveillance system",
+      "imageSrc": "projects/project.png",
+      "description": "This project aims to improve the existing surveillance system .It Achieves this by able to send images of suspects that were added to the database and if the person is detected a message with the time and date of the photo taken is send to the user",
+      "skills": ["Python", "OpenCV", "YoloV6"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/user1222234/face_recognition"
+    },
+    {
+      "title": "My-first-blog",
+      "imageSrc": "projects/project.png",
+      "description": "This is my first blog post that uses django to implement it. It has sql-lite as database. might lack css as its my first one.Will improve them as time goes by.This was my first project after i learned django and it is a hobbie project. there is more to come you will see............................",
+      "skills": ["Python", "HTML","CSS","Django"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/user1222234/my-first-blog"
+    },
+    {
+      "title": "FeedFoward website-Done at a hackathon",
+      "imageSrc": "projects/project.png",
+      "description": "The website helps to reduce food wastage by connecting food surplus community with those in need. This is my first project and may not be the best but its a start.A small begining for big things, and big it shall be.",
+      "skills": ["HTML", "CSS", "AirTable"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/user1222234/feedforward"
+    }
+  ]
